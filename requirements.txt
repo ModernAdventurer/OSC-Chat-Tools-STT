@@ -1,0 +1,13 @@
+PySimpleGUI
+argparse
+datetime
+python-osc
+keyboard
+asyncio
+psutil
+winsdk
+websocket-client
+PyInstaller
+pyperclip
+pynvml
+requests
